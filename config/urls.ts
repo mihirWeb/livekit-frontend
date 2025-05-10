@@ -1,4 +1,4 @@
 export const config = {
-    webviewUrl: 'https://avatar-frontend-one.vercel.app/'
+    webviewUrl: 'http://50.17.159.159/'
     // this is the url of hosted avatar_frontend
 };
